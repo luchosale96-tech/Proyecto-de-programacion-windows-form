@@ -1,0 +1,26 @@
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\bin\Debug\Proyecto de programacion 2.exe.config
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\bin\Debug\Proyecto de programacion 2.exe
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\bin\Debug\Proyecto de programacion 2.pdb
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.Form1.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.Properties.Resources.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.csproj.GenerateResource.cache
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.exe
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.pdb
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.Form2.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.Form3.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Windows Form\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.MenuRepuestos.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\bin\Debug\Proyecto de programacion 2.exe.config
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\bin\Debug\Proyecto de programacion 2.exe
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\bin\Debug\Proyecto de programacion 2.pdb
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.Form1.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.Form2.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.Form3.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.MenuRepuestos.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto_de_programacion_2.Properties.Resources.resources
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.csproj.GenerateResource.cache
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.exe
+C:\Users\Luciano\Desktop\facultaaaad\Programacion II\Proyecto de programacion 2\Proyecto de programacion 2\obj\Debug\Proyecto de programacion 2.pdb
